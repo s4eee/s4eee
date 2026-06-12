@@ -16,7 +16,7 @@
 
 - 💻 I love building projects and exploring new ideas through code
 
-- 💰 Interested in **FinTech**, investing and technology-driven solutions
+- 💰 Interested in investing and technology-driven solutions
 
 - 🌱 Currently learning **Web Development and App Development**
 
